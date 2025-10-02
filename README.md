@@ -1,17 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=d896ff&reversal=true" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FCC6DF&reversal=true&section=header" width="100%">
 
 </div>
 
 <div>
 
-<img src="https://media.tenor.com/at27bgtYrKsAAAAi/" alt="Kawaii" width="100" height="100" align="right"/>
+<img src="https://github.com/vanya-koleva/vanya-koleva/blob/main/media/kitten.gif" width="150" align="right"/>
 
-# Hello! <img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" />&nbsp;  
+<img src="https://github.com/vanya-koleva/vanya-koleva/blob/main/media/pengu-pudgy.gif" width="150" align="left" />&nbsp;  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D896FF&width=435&lines=Welcome+to+my+GitHub;My+name+is+Vanya+Koleva)](https://git.io/typing-svg)
+<div align="center"> 
+   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FCC1D6&width=435&lines=+++Welcome+to+my+GitHub+profile;++++++My+name+is+Vanya+Koleva)](https://git.io/typing-svg)
 
+</div>
 </div>
 
 <div align="center">
@@ -37,6 +40,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,django,postgres,sqlite,postman,docker)](https://skillicons.dev)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=d896ff&reversal=true&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FCC6DF&reversal=true&section=footer" width="100%">
 
 </div>
