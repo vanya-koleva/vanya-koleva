@@ -21,6 +21,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,django,postgres,sqlite,postman,docker,git,github)](https://skillicons.dev)
 
+</div>
+
+<div align="center">
+   
 ## 📚 Education:
 ### [SoftUni.bg](https://www.softuni.bg)
 - **[Programming Basics (September 2023)](https://softuni.bg/certificates/details/187385/c62df3c3):** Completed with 6.00/6.00 ✔️
