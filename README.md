@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,django,postgres,sqlite,postman,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,django,postgres,sqlite,postman,docker,git,github)](https://skillicons.dev)
 
 ## 📚 Education:
 ### [SoftUni.bg](https://www.softuni.bg)
@@ -34,13 +34,25 @@
 - **[Django Basics (May 2025)](https://softuni.bg/certificates/details/246227/280f3fe3):** Completed with 6.00/6.00 ✔️
 - **[Django Advanced (June 2025)](https://softuni.bg/certificates/details/248891/b22a9af4):** Completed with 6.00/6.00 ✔️
 
-</div>
-
 <br>
 
 <div align="center">
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vanya-koleva&bg_color=f9f6f7&color=3b2c35&line=f5a3c7&point=a8a6b4&area=true&hide_border=true&height=300)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanya-koleva&theme=default&background=f9f6f7&hide_border=true&ring=f5a3c7&fire=3b2c35&currStreakLabel=3b2c35" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanya-koleva&theme=soft&bg_color=f9f6f7&title_color=3b2c35&text_color=3b2c35&hide_border=true&layout=compact&langs_count=8" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanya-koleva&bg_color=f9f6f7&color=3b2c35&line=f5a3c7&point=a8a6b4&area=true&hide_border=true&height=300" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FCC6DF&reversal=true&section=footer" width="100%">
 
