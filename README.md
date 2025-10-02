@@ -12,7 +12,7 @@
 
 <div align="center"> 
    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FCC1D6&width=435&lines=+++Welcome+to+my+GitHub+profile;++++++My+name+is+Vanya+Koleva)](https://git.io/typing-svg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E49686&width=435&lines=Welcome+to+my+GitHub+profile;+My+name+is+Vanya+Koleva)](https://git.io/typing-svg)
 
 </div>
 </div>
