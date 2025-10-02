@@ -6,9 +6,9 @@
 
 <div>
 
-<img src="https://github.com/vanya-koleva/vanya-koleva/blob/main/media/kitten.gif" width="150" align="right"/>
+<img src="media/kitten.gif" width="150" align="right"/>
 
-<img src="https://github.com/vanya-koleva/vanya-koleva/blob/main/media/pengu-pudgy.gif" width="150" align="left" />&nbsp;  
+<img src="media/pengu-pudgy.gif" width="150" align="left" />&nbsp;  
 
 <div align="center"> 
    
