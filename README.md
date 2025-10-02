@@ -19,6 +19,8 @@
 
 <div align="center">
 
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,django,postgres,sqlite,postman,docker)](https://skillicons.dev)
+
 ## 📚 Education:
 ### [SoftUni.bg](https://www.softuni.bg)
 - **[Programming Basics (September 2023)](https://softuni.bg/certificates/details/187385/c62df3c3):** Completed with 6.00/6.00 ✔️
@@ -38,7 +40,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,django,postgres,sqlite,postman,docker)](https://skillicons.dev)
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vanya-koleva&bg_color=f9f6f7&color=3b2c35&line=f5a3c7&point=a8a6b4&area=true&hide_border=true&height=300)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FCC6DF&reversal=true&section=footer" width="100%">
 
