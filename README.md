@@ -48,7 +48,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanya-koleva&theme=default&background=f9f6f7&hide_border=true&ring=f5a3c7&fire=3b2c35&currStreakLabel=3b2c35" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanya-koleva&theme=soft&bg_color=f9f6f7&title_color=3b2c35&text_color=3b2c35&hide_border=true&layout=compact&langs_count=8" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanya-koleva&bg_color=f9f6f7&title_color=3b2c35&text_color=3b2c35&hide_border=true&layout=compact&langs_count=8" />
     </td>
   </tr>
   <tr>
