@@ -37,6 +37,7 @@
 - **[Python ORM (February 2025)](https://softuni.bg/certificates/details/240743/b7289670):** Completed with 6.00/6.00 ✔️
 - **[Django Basics (May 2025)](https://softuni.bg/certificates/details/246227/280f3fe3):** Completed with 6.00/6.00 ✔️
 - **[Django Advanced (June 2025)](https://softuni.bg/certificates/details/248891/b22a9af4):** Completed with 6.00/6.00 ✔️
+- **[Software Engineering and DevOps (September 2025)](https://softuni.bg/certificates/details/252757/0415ffc6):** Completed with 6.00/6.00 ✔️
 
 <br>
 
