@@ -27,17 +27,17 @@
    
 ## 📚 Education:
 ### [SoftUni.bg](https://www.softuni.bg)
-- **[Programming Basics (September 2023)](https://softuni.bg/certificates/details/187385/c62df3c3):** Completed with 6.00/6.00 ✔️
-- **[Programming Fundamentals with Python (January 2024)](https://softuni.bg/certificates/details/210607/4b7399d8):** Completed with 6.00/6.00 ✔️
-- **[Python Advanced (May 2024)](https://softuni.bg/certificates/details/217889/1209104a):** Completed with 6.00/6.00 ✔️
-- **[Python OOP (June 2024)](https://softuni.bg/certificates/details/222889/af3012c0):** Completed with 6.00/6.00 ✔️
-- **[HTML & CSS (September 2024)](https://softuni.bg/certificates/details/228550/aeb039c3):** Completed with 6.00/6.00 ✔️
-- **[JS Front-End (October 2024)](https://softuni.bg/certificates/details/232309/485a0bb4):** Completed with 5.87/6.00 ✔️
-- **[PostgreSQL (January 2025)](https://softuni.bg/certificates/details/235971/90c4383e):** Completed with 6.00/6.00 ✔️
-- **[Python ORM (February 2025)](https://softuni.bg/certificates/details/240743/b7289670):** Completed with 6.00/6.00 ✔️
-- **[Django Basics (May 2025)](https://softuni.bg/certificates/details/246227/280f3fe3):** Completed with 6.00/6.00 ✔️
-- **[Django Advanced (June 2025)](https://softuni.bg/certificates/details/248891/b22a9af4):** Completed with 6.00/6.00 ✔️
-- **[Software Engineering and DevOps (September 2025)](https://softuni.bg/certificates/details/252757/0415ffc6):** Completed with 6.00/6.00 ✔️
+**[Programming Basics (September 2023)](https://softuni.bg/certificates/details/187385/c62df3c3):** Completed with 6.00/6.00 ✔️  
+**[Programming Fundamentals with Python (January 2024)](https://softuni.bg/certificates/details/210607/4b7399d8):** Completed with 6.00/6.00 ✔️  
+**[Python Advanced (May 2024)](https://softuni.bg/certificates/details/217889/1209104a):** Completed with 6.00/6.00 ✔️  
+**[Python OOP (June 2024)](https://softuni.bg/certificates/details/222889/af3012c0):** Completed with 6.00/6.00 ✔️  
+**[HTML & CSS (September 2024)](https://softuni.bg/certificates/details/228550/aeb039c3):** Completed with 6.00/6.00 ✔️  
+**[JS Front-End (October 2024)](https://softuni.bg/certificates/details/232309/485a0bb4):** Completed with 5.87/6.00 ✔️  
+**[PostgreSQL (January 2025)](https://softuni.bg/certificates/details/235971/90c4383e):** Completed with 6.00/6.00 ✔️  
+**[Python ORM (February 2025)](https://softuni.bg/certificates/details/240743/b7289670):** Completed with 6.00/6.00 ✔️  
+**[Django Basics (May 2025)](https://softuni.bg/certificates/details/246227/280f3fe3):** Completed with 6.00/6.00 ✔️  
+**[Django Advanced (June 2025)](https://softuni.bg/certificates/details/248891/b22a9af4):** Completed with 6.00/6.00 ✔️  
+**[Software Engineering and DevOps (September 2025)](https://softuni.bg/certificates/details/252757/0415ffc6):** Completed with 6.00/6.00 ✔️  
 
 <br>
 
