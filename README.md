@@ -17,10 +17,13 @@
 </div>
 </div>
 
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,django,postgres,sqlite,postman,docker)](https://skillicons.dev)
-
+<div>
+   <p align="center">
+     <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=py,js,cs,html,css,django,bootstrap,postgres,sqlite,docker&theme=light" />
+        <img src="https://skillicons.dev/icons?i=azure,githubactions,grafana,jenkins,prometheus,terraform,linux,ubuntu,git,postman&theme=light" />
+     </a>
+   </p>
 </div>
 
 <div align="center">
@@ -38,6 +41,7 @@
 **[Django Basics (May 2025)](https://softuni.bg/certificates/details/246227/280f3fe3):** Completed with 6.00/6.00 ✔️  
 **[Django Advanced (June 2025)](https://softuni.bg/certificates/details/248891/b22a9af4):** Completed with 6.00/6.00 ✔️  
 **[Software Engineering and DevOps (September 2025)](https://softuni.bg/certificates/details/252757/0415ffc6):** Completed with 6.00/6.00 ✔️  
+**[Containers and Cloud (October 2025)](https://softuni.bg/certificates/details/255511/9250ea93):** Completed with 6.00/6.00 ✔️
 
 <br>
 
@@ -49,7 +53,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanya-koleva&theme=default&background=f9f6f7&hide_border=true&ring=f5a3c7&fire=3b2c35&currStreakLabel=3b2c35" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanya-koleva&bg_color=f9f6f7&title_color=3b2c35&text_color=3b2c35&hide_border=true&layout=compact&langs_count=8" />
+      <img src="https://github-readme-stats-mu-seven-11.vercel.app/api/top-langs/?username=vanya-koleva&bg_color=f9f6f7&title_color=3b2c35&text_color=3b2c35&hide_border=true&layout=compact&langs_count=8" />
     </td>
   </tr>
   <tr>
