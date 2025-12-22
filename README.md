@@ -20,8 +20,8 @@
 <div>
    <p align="center">
      <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=py,js,cs,html,css,django,bootstrap,postgres,sqlite,docker&theme=light" />
-        <img src="https://skillicons.dev/icons?i=azure,githubactions,grafana,jenkins,prometheus,terraform,linux,ubuntu,git,postman&theme=light" />
+       <img src="https://skillicons.dev/icons?i=py,js,cs,html,css,django,bootstrap&theme=light" />
+        <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,azure,githubactions,grafana,jenkins,prometheus,terraform,linux,ubuntu,git,postman&theme=light" />
      </a>
    </p>
 </div>
