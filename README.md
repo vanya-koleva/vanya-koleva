@@ -50,7 +50,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanya-koleva&theme=default&background=f9f6f7&hide_border=true&ring=f5a3c7&fire=3b2c35&currStreakLabel=3b2c35" />
+      <img src="https://github-readme-streak-stats-mu-six-31.vercel.app/?user=vanya-koleva&theme=default&background=f9f6f7&hide_border=true&ring=f5a3c7&fire=3b2c35&currStreakLabel=3b2c35" />
     </td>
     <td>
       <img src="https://github-readme-stats-mu-seven-11.vercel.app/api/top-langs/?username=vanya-koleva&bg_color=f9f6f7&title_color=3b2c35&text_color=3b2c35&hide_border=true&layout=compact&langs_count=8" />
